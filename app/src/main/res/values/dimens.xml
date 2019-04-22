@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="five">5dp</dimen>
+    <dimen name="ten">10dp</dimen>
+    <dimen name="twofivesp">25sp</dimen>
+    <dimen name="onedp">1dp</dimen>
+    <dimen name="onefivedp">15dp</dimen>
+    <dimen name="twozerosp">20sp</dimen>
+    <dimen name="twozerodp">20dp</dimen>
+    <dimen name="onefivesp">15sp</dimen>
+    <dimen name="twofivedp">25dp</dimen>
+</resources>
